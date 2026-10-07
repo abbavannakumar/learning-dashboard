@@ -2,6 +2,8 @@
 
 Kotlin / Jetpack Compose, Android 8+ (API 26). Three screens: login, course dashboard, and lesson details.
 
+**Submission:** [APK and 118-second demo video](https://github.com/abbavannakumar/learning-dashboard/releases/tag/v1.0.0) · [Submission links](docs/SUBMISSION.md).
+
 **Run:** Open in Android Studio with JDK 17+ and run `app`. CLI: `./gradlew assembleDebug testDebugUnitTest lintDebug` (Windows: `gradlew.bat`). APK: `app/build/outputs/apk/debug/app-debug.apk`. Demo login: **demo@example.com / password123**, including offline. A cold launch requires login; passwords are never persisted.
 
 ## 1. Architecture
