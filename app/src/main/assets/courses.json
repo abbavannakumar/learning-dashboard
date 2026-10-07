@@ -1,0 +1,18 @@
+[
+  {"id":1,"title":"Python Programming","instructor":"John Smith","completedLessons":13,"lessonTitles":["Introduction","Installing Python","Your first program","Variables & data types","Strings","Numbers","Operators","Conditionals","Loops","Lists","Tuples","Dictionaries","Sets","Functions","Modules","Files","Exceptions","Object-oriented programming","Testing","Final project"]},
+  {"id":2,"title":"Generative AI","instructor":"Sarah Williams","completedLessons":6,"lessonTitles":["Introduction","Machine learning basics","Neural networks","Embeddings","Transformers","Language models","Prompting","Structured outputs","Retrieval","Vector databases","RAG","Evaluation","Responsible AI","Fine-tuning","Deployment","Final project"]},
+  {"id":3,"title":"Full Stack Development","instructor":"David Brown","completedLessons":7,"lessonTitles":["Introduction","How the web works","HTML","CSS","Layouts","JavaScript","DOM","Events","Async JavaScript","HTTP","Git","Components","State","Routing","Forms","Accessibility","Node.js","REST APIs","Databases","SQL","Authentication","Authorization","Testing","Caching","Security","Deployment","Monitoring","Final project"]},
+  { "id": 4,
+  "title": "Android Development",
+  "instructor": "Alex Kumar",
+  "completedLessons": 2,
+  "lessonTitles": [
+    "Introduction",
+    "Kotlin Basics",
+    "Jetpack Compose",
+    "State Management",
+    "Room Database",
+    "Final Project"
+  ]
+}
+]
